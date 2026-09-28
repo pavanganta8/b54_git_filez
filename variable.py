@@ -1,0 +1,10 @@
+x=1
+y='pavan'
+z=True
+a=[1,2,3,4]
+b=(1,2,3,4)
+c={'name':'pavan','age':22}
+d={1,2,3,4}
+e=None
+f=''
+g=' '
